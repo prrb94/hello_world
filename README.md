@@ -1,6 +1,7 @@
 # hello_world
 intro to github
-i am testing changes 
+
+made other changes
 
 when does line space occur \n
 escap charachter 
